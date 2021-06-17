@@ -1,0 +1,16 @@
+C:\Users\artur\Desktop\POO C Sharp\POOPay\POOPay\bin\Debug\net5.0\POOPay.exe
+C:\Users\artur\Desktop\POO C Sharp\POOPay\POOPay\bin\Debug\net5.0\POOPay.deps.json
+C:\Users\artur\Desktop\POO C Sharp\POOPay\POOPay\bin\Debug\net5.0\POOPay.runtimeconfig.json
+C:\Users\artur\Desktop\POO C Sharp\POOPay\POOPay\bin\Debug\net5.0\POOPay.runtimeconfig.dev.json
+C:\Users\artur\Desktop\POO C Sharp\POOPay\POOPay\bin\Debug\net5.0\POOPay.dll
+C:\Users\artur\Desktop\POO C Sharp\POOPay\POOPay\bin\Debug\net5.0\ref\POOPay.dll
+C:\Users\artur\Desktop\POO C Sharp\POOPay\POOPay\bin\Debug\net5.0\POOPay.pdb
+C:\Users\artur\Desktop\POO C Sharp\POOPay\POOPay\obj\Debug\net5.0\POOPay.csproj.AssemblyReference.cache
+C:\Users\artur\Desktop\POO C Sharp\POOPay\POOPay\obj\Debug\net5.0\POOPay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\Desktop\POO C Sharp\POOPay\POOPay\obj\Debug\net5.0\POOPay.AssemblyInfoInputs.cache
+C:\Users\artur\Desktop\POO C Sharp\POOPay\POOPay\obj\Debug\net5.0\POOPay.AssemblyInfo.cs
+C:\Users\artur\Desktop\POO C Sharp\POOPay\POOPay\obj\Debug\net5.0\POOPay.csproj.CoreCompileInputs.cache
+C:\Users\artur\Desktop\POO C Sharp\POOPay\POOPay\obj\Debug\net5.0\POOPay.dll
+C:\Users\artur\Desktop\POO C Sharp\POOPay\POOPay\obj\Debug\net5.0\ref\POOPay.dll
+C:\Users\artur\Desktop\POO C Sharp\POOPay\POOPay\obj\Debug\net5.0\POOPay.pdb
+C:\Users\artur\Desktop\POO C Sharp\POOPay\POOPay\obj\Debug\net5.0\POOPay.genruntimeconfig.cache
